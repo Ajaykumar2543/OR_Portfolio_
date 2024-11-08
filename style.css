@@ -448,6 +448,7 @@ footer h4 {
     width: 400px;
     height: 100%;
     margin: 10px;
+    margin-left:0;
   }
   .submit {
     margin-left: 120px;
