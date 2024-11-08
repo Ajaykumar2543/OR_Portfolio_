@@ -406,7 +406,7 @@ footer h4 {
     width: 400px;
   }
   .Portfolio {
-    width: 100%;
+    width: 400px;
     height: 100%;
   }
   .Portfolio .heading {
@@ -416,7 +416,7 @@ footer h4 {
     justify-content: center;
   }
   .Portfolio .s-boxs .s-box {
-    width: 380px;
+    width: 360px;
     height: 100%;
     margin-left: 20px;
     padding: 0;
