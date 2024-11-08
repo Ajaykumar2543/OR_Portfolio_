@@ -390,7 +390,7 @@ footer h4 {
     width: 100%;
   }
   .services {
-    width: 100%;
+    width: 400px;
     height: 100%;
   }
   .services .heading {
@@ -399,9 +399,11 @@ footer h4 {
   }
   .services .s-boxs {
     margin: 10px;
+    width: 400px;
   }
   .services .s-boxs .s-box {
     margin-left: 20px;
+    width: 400px;
   }
   .Portfolio {
     width: 100%;
@@ -414,7 +416,7 @@ footer h4 {
     justify-content: center;
   }
   .Portfolio .s-boxs .s-box {
-    width: 100%;
+    width: 380px;
     height: 100%;
     margin-left: 20px;
     padding: 0;
