@@ -314,6 +314,10 @@ footer h4 {
 
 /* RESPONSIVE MOBILE VERSION */
 @media screen and (max-width: 450px) {
+  html{
+    width: 100%;
+  }
+  
   header {
     width: 100%;
   }
