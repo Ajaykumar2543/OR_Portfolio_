@@ -319,7 +319,7 @@ footer h4 {
   }
   
   header {
-    width: 100%;
+    width: 400px;
   }
   .h-tags {
     display: flex;
@@ -454,9 +454,5 @@ footer h4 {
   }
   .hide-m {
     display: block;
-  }
-  header {
-    width: 100%;
-    height: 100%;
   }
 }
